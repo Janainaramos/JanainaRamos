@@ -6,7 +6,7 @@
 
 ## Projetos em destaque
 - [ContaBancaria](https://github.com/Janainaramos/ContaBancaria) – Sistema bancário em Java com POO  
-- [iPhoneUML](link) – Modelagem UML de um iPhone  
+- [iPhoneUML](https://github.com/Janainaramos/iPhoneUML) – Modelagem UML de um iPhone  
 
 ## Habilidades
 Java | POO | CRUD | Banco de Dados | IntelliJ
