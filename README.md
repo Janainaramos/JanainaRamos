@@ -5,7 +5,7 @@
 🍳 Nas horas vagas: cozinhar e fazer trilhas  
 
 ## Projetos em destaque
-- [ContaBancaria]() – Sistema bancário em Java com POO  
+- [ContaBancaria](https://github.com/Janainaramos/ContaBancaria) – Sistema bancário em Java com POO  
 - [iPhoneUML](link) – Modelagem UML de um iPhone  
 
 ## Habilidades
